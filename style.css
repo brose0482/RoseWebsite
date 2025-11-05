@@ -1,0 +1,28 @@
+<style>
+            header{
+                background-color: yellow;
+                text-align: center;
+            }
+
+            body{
+                background-image: url("https://i.pinimg.com/originals/a9/c2/d0/a9c2d0dcf02d518a6a640c08e43f602a.gif");
+            }
+            a{
+                background-color: aqua;
+                text-decoration: none;
+            }
+            a#header-link{
+                background-color: red;
+                text-decoration: none;
+                color: black;
+            }
+
+            a.body-link{
+                background-color: black;
+                color: white;
+            }
+
+            *.red-text{
+                color: red;
+            }
+        </style>
